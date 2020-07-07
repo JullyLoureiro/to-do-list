@@ -1,0 +1,6 @@
+export const colorPrimary = '#9933ff'
+export const colorSecondary = '#00ffcc'
+export const gray = '#f2f2f2'
+export const graydark = '#535353'
+export const white = 'white'
+export const graylight = '#a0a0a000'
